@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="thuylds.id.vn">
+  <a href="[thuylds.id.vn](https://thuylds.id.vn/)">
     <img src="https://img.shields.io/badge/Portfolio-173B56?style=for-the-badge" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/luyendinhsonthuy/">
